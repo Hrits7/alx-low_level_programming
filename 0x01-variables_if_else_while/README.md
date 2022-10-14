@@ -5,3 +5,4 @@
 4-print_alphabt.c is a script that prints the alphabet in lowercase, followed by a new line.
 5-print_numbers.c is a script that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 6-print_numberz.c is a script that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+7-print_tebahpla.c is a script that prints the lowercase alphabet in reverse, followed by a new line.
